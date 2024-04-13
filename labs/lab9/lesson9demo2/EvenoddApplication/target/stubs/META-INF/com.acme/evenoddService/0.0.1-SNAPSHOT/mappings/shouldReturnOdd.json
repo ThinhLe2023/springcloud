@@ -1,0 +1,18 @@
+{
+  "id" : "417174f4-1561-474e-9289-948dd25e56e4",
+  "request" : {
+    "urlPath" : "/validate",
+    "method" : "GET",
+    "queryParameters" : {
+      "number" : {
+        "equalTo" : "1"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Odd",
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "417174f4-1561-474e-9289-948dd25e56e4"
+}
