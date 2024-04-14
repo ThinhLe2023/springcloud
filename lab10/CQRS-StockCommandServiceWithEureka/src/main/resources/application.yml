@@ -1,0 +1,15 @@
+server:
+  port: 8900
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+spring:
+  application:
+    name: StockCommandService
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin

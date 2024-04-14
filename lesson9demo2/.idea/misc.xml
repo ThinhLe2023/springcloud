@@ -18,6 +18,16 @@
         <option value="$PROJECT_DIR$/ServiceTwoWithCircuitBreaker/pom.xml" />
         <option value="$PROJECT_DIR$/StockServiceWithEureka/pom.xml" />
         <option value="$PROJECT_DIR$/StockServiceWithEurekaTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/StockCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductQueryServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/CQRS-StockCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/CQRS-ProductQueryServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/CQRS-ProductCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/BookApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab+5+solution/WebShopComponents/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab+5+solution/WebShopComponentsClient/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4/BookApplication/pom.xml" />
       </list>
     </option>
   </component>

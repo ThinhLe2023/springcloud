@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BookApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CQRS-ProductCommandServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CQRS-ProductQueryServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CQRS-StockCommandServiceWithEureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ConfigServerLocal/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/EvenoddApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab+5+solution/WebShopComponents/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab+5+solution/WebShopComponentsClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MathService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductAndStockApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductCommandServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductQueryServiceWithEureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductServiceWithEureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ServiceAApplication/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ServiceBApplication/src/main/java" charset="UTF-8" />
@@ -15,7 +23,9 @@
     <file url="file://$PROJECT_DIR$/ServiceTwo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ServiceTwo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ServiceTwoWithCircuitBreaker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockCommandServiceWithEureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StockServiceWithEureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StockServiceWithEurekaTwo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab4/BookApplication/src/main/java" charset="UTF-8" />
   </component>
 </project>
