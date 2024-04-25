@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="mathService" />
+        <module name="ServiceOne (3)" />
+        <module name="evenoddService" />
+        <module name="ProductQueryService" />
+        <module name="ProductCommandService" />
+        <module name="WebShop" />
+        <module name="StockCommandService" />
+        <module name="ConfigServer2" />
+        <module name="ServiceAApplication (1)" />
+        <module name="ServiceAApplication" />
+        <module name="ServiceOne" />
+        <module name="StockService (1)" />
+        <module name="cloudgateway" />
+        <module name="ProductService" />
+        <module name="WebShop (1)" />
+        <module name="ServiceOne (2)" />
+        <module name="ServiceOne (1)" />
+        <module name="StockService" />
+        <module name="BookApplication" />
+        <module name="ServiceBApplication" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BookApplication" options="-parameters" />
+      <module name="ConfigServer2" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="ProductCommandService" options="-parameters" />
+      <module name="ProductQueryService" options="-parameters" />
+      <module name="ProductService" options="-parameters" />
+      <module name="ServiceAApplication" options="-parameters" />
+      <module name="ServiceAApplication (1)" options="-parameters" />
+      <module name="ServiceBApplication" options="-parameters" />
+      <module name="ServiceOne" options="-parameters" />
+      <module name="ServiceOne (1)" options="-parameters" />
+      <module name="ServiceOne (2)" options="-parameters" />
+      <module name="ServiceOne (3)" options="-parameters" />
+      <module name="StockCommandService" options="-parameters" />
+      <module name="StockService" options="-parameters" />
+      <module name="StockService (1)" options="-parameters" />
+      <module name="WebShop" options="-parameters" />
+      <module name="WebShop (1)" options="-parameters" />
+      <module name="cloudgateway" options="-parameters" />
+      <module name="evenoddService" options="-parameters" />
+      <module name="mathService" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ServiceOne/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigServerLocal/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceAApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceBApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/EvenoddApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/MathService/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductAndStockApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceOneWithCircuitBreaker/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceTwoWithCircuitBreaker/pom.xml" />
+        <option value="$PROJECT_DIR$/StockServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/StockServiceWithEurekaTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/StockCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductQueryServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/CQRS-StockCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/CQRS-ProductQueryServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/CQRS-ProductCommandServiceWithEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/BookApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab+5+solution/WebShopComponents/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab+5+solution/WebShopComponentsClient/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4/BookApplication/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

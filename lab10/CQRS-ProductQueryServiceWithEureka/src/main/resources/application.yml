@@ -1,0 +1,15 @@
+server:
+  port: 8901
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+spring:
+  application:
+    name: ProductQueryService
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin
